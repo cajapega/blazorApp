@@ -5,7 +5,7 @@
 [![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 [![Webassembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white)](https://webassembly.org/)
 
-Este repositorio refleja mi experiencia y aprendizaje en el desarrollo de aplicaciones web utilizando Blazor WebAssembly y .NET. Con un enfoque en el desarrollo full stack, aprovecho el poder de C# para construir aplicaciones interactivas sin necesidad de JavaScript en el frontend.
+Este repositorio refleja mi experiencia y aprendizaje en el desarrollo de aplicaciones web utilizando Blazor WebAssembly y .NET. Aprovecho el poder de C# para construir aplicaciones interactivas sin necesidad de JavaScript en el frontend.
 🛠️ Tecnologías y Herramientas
 
     C# – Lenguaje principal para la lógica del negocio.
